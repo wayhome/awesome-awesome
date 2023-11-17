@@ -2,6 +2,7 @@
 
 ### gpt-4-vision
 - [SawyerHood/draw-a-ui: Draw a mockup and generate html for it](https://github.com/SawyerHood/draw-a-ui)
+- [abi/screenshot-to-code: Drop in a screenshot and convert it to clean HTML/Tailwind/JS code](https://github.com/abi/screenshot-to-code)
 
 ### GPTs
 - [GPTs Index - Find the GPT that fits your needs | by Hallidai](https://gpts.hallid.ai/)
