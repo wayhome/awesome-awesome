@@ -5,6 +5,7 @@
 - [abi/screenshot-to-code: Drop in a screenshot and convert it to clean HTML/Tailwind/JS code](https://github.com/abi/screenshot-to-code)
 
 ### GPTs
+- [GPTseek - Discover Great GPTs with Your Vote](https://gptseek.com/)
 - [GPTs Index - Find the GPT that fits your needs | by Hallidai](https://gpts.hallid.ai/)
 - [Discover the Best GPT's](https://supertools.therundown.ai/gpts)
 - [GPTHub](https://gpthub.nofwl.com/)
