@@ -3,3 +3,6 @@
 
 ## Book
 - [LLM 应用开发实践笔记](https://aitutor.liduos.com/)
+
+## Tools
+- [最懂程序员的 AI 搜索引擎](https://devv.ai/zh)
