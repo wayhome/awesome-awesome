@@ -7,3 +7,4 @@
 - [FreeCourseSite - Download Udemy Paid Courses For Free](https://freecoursesite.com/)
 - [Downloadly - free software download](https://downloadly.ir/)
 - [Tut4Biz - Latest Internet Marketing For U - Get New & Update Video Training ,Tutorials](https://tut4biz.com/)
+- [Courses Bag - Get Free Courses Online](https://coursesbag.com/)
