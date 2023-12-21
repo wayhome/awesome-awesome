@@ -6,3 +6,4 @@
 
 ## Tools
 - [最懂程序员的 AI 搜索引擎](https://devv.ai/zh)
+- [AI Chat for scientific PDFs | SciSpace](https://typeset.io/)
