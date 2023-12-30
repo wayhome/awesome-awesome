@@ -11,3 +11,6 @@
 
 ## Projects
 - [Serverless Machine Learning - MLApps](https://www.serverless-ml.org/mlapps) A list of ML Apps Collection
+
+## Platform
+- [Hopsworks - Batch and Real-time ML Platform](https://www.hopsworks.ai/) ML platform with highest performance Feature Store.
