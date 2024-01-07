@@ -13,3 +13,7 @@
 
 ## Pay Wall
 - [ReadMedium - Read Translated Articles for Free!](https://readmedium.com/)
+
+## NetDisk
+- [学霸盘 - 百度网盘学习资料搜索下载神器](https://www.xuebapan.com/)
+- [懒盘搜索官网 - 分享阿里云盘搜索引擎](https://lzpanx.com/)
