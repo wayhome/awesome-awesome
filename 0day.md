@@ -16,4 +16,5 @@
 
 ## NetDisk
 - [学霸盘 - 百度网盘学习资料搜索下载神器](https://www.xuebapan.com/)
+- [盘搜搜 - 百度网盘资源搜索神器](https://pansou.cc/)
 - [懒盘搜索官网 - 分享阿里云盘搜索引擎](https://lzpanx.com/)
