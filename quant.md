@@ -3,6 +3,7 @@
 - [shashankvemuri/Finance: 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data](https://github.com/shashankvemuri/Finance)
 - [DogsTailFarmer/martin-binance: Free trading system for crypto exchanges SPOT market. Adaptive customizable reverse grid strategy based on martingale.](https://github.com/DogsTailFarmer/martin-binance)
 - [kernc/backtesting.py: :mag_right: :snake: Backtest trading strategies in Python.](https://github.com/kernc/backtesting.py) Backtest trading strategies in Python
+- [akfamily/akshare: AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库](https://github.com/akfamily/akshare)
 
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
