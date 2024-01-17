@@ -1,5 +1,6 @@
 ## Search Engine
 - [Latest News / TavazSearch](https://tavaz.xyz/)
+- [磁力猫 -魔法猫咪.lol 磁力链接搜索,BT种子搜索,最好用的磁力搜索引擎](https://clmclm.com/)
 
 ## Courses
 - [GigaCourse - Download Premium Udemy Courses For Free](https://gigacourse.com/)
