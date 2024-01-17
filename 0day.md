@@ -11,6 +11,7 @@
 - [Tut4Biz - Latest Internet Marketing For U - Get New & Update Video Training ,Tutorials](https://tut4biz.com/)
 - [Courses Bag - Get Free Courses Online](https://coursesbag.com/)
 - [Udemy 24 - Get Free Courses Online](https://udemy24.com/)
+- [SoftDDL - Download Source Unlimited » SoftDDL - Download Source Unlimited](https://softddl.org/)
 
 ## Pay Wall
 - [ReadMedium - Read Translated Articles for Free!](https://readmedium.com/)
