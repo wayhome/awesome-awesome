@@ -11,6 +11,7 @@
 
 ## Projects
 - [Serverless Machine Learning - MLApps](https://www.serverless-ml.org/mlapps) A list of ML Apps Collection
+- [ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益](https://github.com/bleedline/aimoneyhunter)
 
 ## Platform
 - [Hopsworks - Batch and Real-time ML Platform](https://www.hopsworks.ai/) ML platform with highest performance Feature Store.
