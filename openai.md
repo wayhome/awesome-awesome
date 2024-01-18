@@ -20,3 +20,4 @@
 - [LouisShark/chatgpt_system_prompt: store all chatgpt's system prompt](https://github.com/LouisShark/chatgpt_system_prompt)
 - [Crack GPTs Prompt | CrackGPTs](https://crackgpts.com/)
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
+- [friuns2/Leaked-GPTs: Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription. https://gptcall.net](https://github.com/friuns2/Leaked-GPTs)
