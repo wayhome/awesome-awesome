@@ -4,6 +4,9 @@
 ## Book
 - [LLM 应用开发实践笔记](https://aitutor.liduos.com/)
 
+## Tutorial
+- [notes/cuda_optimization.md at main · hayden-donnelly/notes](https://github.com/hayden-donnelly/notes/blob/main/cuda_optimization.md)
+
 ## Tools
 - [最懂程序员的 AI 搜索引擎](https://devv.ai/zh)
 - [AI Chat for scientific PDFs | SciSpace](https://typeset.io/)
