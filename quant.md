@@ -13,4 +13,8 @@
 
 ## Tools
 - [Barchart.com | Commodity, Stock, and Currency Quotes, Charts, News & Analysis](https://www.barchart.com/)
+
+
+## FreqTrade
 - [FreqST - Discover the Best Freqtrade Strategies](https://freqst.com/)
+- [Freqtrade Strategy Ninja - Testing Freqtrade Strategies](https://strat.ninja/)
