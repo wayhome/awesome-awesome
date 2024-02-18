@@ -18,3 +18,4 @@
 ## FreqTrade
 - [FreqST - Discover the Best Freqtrade Strategies](https://freqst.com/)
 - [Freqtrade Strategy Ninja - Testing Freqtrade Strategies](https://strat.ninja/)
+- [Bot Academy – Learn about Freqtrade](https://botacademy.ddns.net/)
