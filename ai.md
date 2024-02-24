@@ -12,6 +12,7 @@
 - [AI Chat for scientific PDFs | SciSpace](https://typeset.io/)
 - [Imagine with Meta AI](https://imagine.meta.com/) 描述一个画面，让 Meta AI 生成
 - [Llama Hub](https://llamahub.ai/)
+- [Globe Explorer](https://explorer.globe.engineer/)
 
 ## Projects
 - [Serverless Machine Learning - MLApps](https://www.serverless-ml.org/mlapps) A list of ML Apps Collection
