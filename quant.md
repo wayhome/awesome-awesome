@@ -8,6 +8,9 @@
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
 
+## Publications
+- [Open Source Quant](https://osquant.com/)
+
 ## Awesome List
 - [wangzhe3224/awesome-systematic-trading: A curated list of insanely awesome libraries, packages and resources for systematic trading](https://github.com/wangzhe3224/awesome-systematic-trading)
 
