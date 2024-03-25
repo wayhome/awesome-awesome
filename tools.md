@@ -1,6 +1,7 @@
 ## Dev
 - [Some develop tools - Bugdays](https://bugdays.com/)
 - [Free for Developers](https://free-for.dev/#/)
+- [IT Tools - Handy online tools for developers](https://it-tools.tech/)
 
 ## design
 - [penpot/penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot) Figma 的免费开源替代品
