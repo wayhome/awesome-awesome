@@ -15,6 +15,7 @@
 
 ## Pay Wall
 - [ReadMedium - Read Translated Articles for Free!](https://readmedium.com/)
+- [12ft](https://12ft.io/) Prepend 12ft.io/ to the URL webpage, and we'll try our best to remove the popups, ads, and other visual distractions.
 
 ## NetDisk
 - [学霸盘 - 百度网盘学习资料搜索下载神器](https://www.xuebapan.com/)
