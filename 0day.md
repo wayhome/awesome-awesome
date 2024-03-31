@@ -3,6 +3,7 @@
 - [磁力猫 -魔法猫咪.lol 磁力链接搜索,BT种子搜索,最好用的磁力搜索引擎](https://clmclm.com/)
 
 ## Courses
+- [SoftArchive – Unlimited Download Source](https://sanet.st/full/)
 - [GigaCourse - Download Premium Udemy Courses For Free](https://gigacourse.com/)
 - [Course Club - Download Paid Courses For Free](https://courseclub.me/)
 - [FreeCourseSite - Download Udemy Paid Courses For Free](https://freecoursesite.com/)
