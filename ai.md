@@ -3,6 +3,7 @@
 
 ## Book
 - [LLM 应用开发实践笔记](https://aitutor.liduos.com/)
+- [Hello! · Transformers快速入门](https://transformers.run/)
 
 ## Tutorial
 - [notes/cuda_optimization.md at main · hayden-donnelly/notes](https://github.com/hayden-donnelly/notes/blob/main/cuda_optimization.md)
