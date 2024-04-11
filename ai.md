@@ -6,6 +6,9 @@
 - [Hello! · Transformers快速入门](https://transformers.run/)
 - [机器学习系统：设计和实现- Chinese Version](https://github.com/openmlsys/openmlsys-zh)
 
+## Papers
+- [Comprehensive Collection of LLM-Related Papers and Repos | All](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5)
+
 ## Tutorial
 - [notes/cuda_optimization.md at main · hayden-donnelly/notes](https://github.com/hayden-donnelly/notes/blob/main/cuda_optimization.md)
 
