@@ -11,6 +11,9 @@
 ## Publications
 - [Open Source Quant](https://osquant.com/)
 
+## News
+- [元网 | 专业的加密货币资讯和区块链技术交流平台](https://metanethub.com/)
+
 ## Awesome List
 - [wangzhe3224/awesome-systematic-trading: A curated list of insanely awesome libraries, packages and resources for systematic trading](https://github.com/wangzhe3224/awesome-systematic-trading)
 
