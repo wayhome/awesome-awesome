@@ -12,6 +12,7 @@
 ## Tutorial
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [notes/cuda_optimization.md at main · hayden-donnelly/notes](https://github.com/hayden-donnelly/notes/blob/main/cuda_optimization.md)
+- [Great Resources for Learning Generative AI and Large Language Models (LLMs) - Scramblings](https://pankajpipada.com/posts/2024-04-15-genai-resources/)
 
 ## Tools
 - [最懂程序员的 AI 搜索引擎](https://devv.ai/zh)
