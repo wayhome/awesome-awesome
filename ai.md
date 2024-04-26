@@ -21,6 +21,7 @@
 - [Llama Hub](https://llamahub.ai/)
 - [Globe Explorer](https://explorer.globe.engineer/)
 - [一译](https://yiyibooks.cn/) 双语论文翻译
+- [Compare LLM API Pricing Instantly - Get the Best Deals at LLM Price Check](https://llmpricecheck.com/)
 
 ## Projects
 - [Serverless Machine Learning - MLApps](https://www.serverless-ml.org/mlapps) A list of ML Apps Collection
