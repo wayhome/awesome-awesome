@@ -4,3 +4,6 @@
 
 ## Email
 - [Self-hosted email marketing solution](https://github.com/vitorfs/colossus)
+
+## awesome list
+- [Free for Developers](https://free-for.dev/#/)
