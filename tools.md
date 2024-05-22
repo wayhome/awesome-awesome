@@ -2,6 +2,7 @@
 - [Some develop tools - Bugdays](https://bugdays.com/)
 - [Free for Developers](https://free-for.dev/#/)
 - [IT Tools - Handy online tools for developers](https://it-tools.tech/)
+- [NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。](https://github.com/NaiboWang/EasySpider)
 
 ## design
 - [penpot/penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot) Figma 的免费开源替代品
