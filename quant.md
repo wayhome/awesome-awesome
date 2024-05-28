@@ -7,6 +7,7 @@
 
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
+- [Technical Analysis Basics: A Guide for Beginners](https://www.investopedia.com/technical-analysis-basic-education-4689655)
 
 ## Publications
 - [Open Source Quant](https://osquant.com/)
