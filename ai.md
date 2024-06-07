@@ -7,6 +7,7 @@
 - [机器学习系统：设计和实现- Chinese Version](https://github.com/openmlsys/openmlsys-zh)
 - [大语言模型 | LLMBook-zh](https://llmbook-zh.github.io/)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [《动手学深度学习》 — 动手学深度学习 2.0.0 documentation](https://zh.d2l.ai/)
 
 ## Course
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
