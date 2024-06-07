@@ -28,6 +28,7 @@
 - [一译](https://yiyibooks.cn/) 双语论文翻译
 - [Compare LLM API Pricing Instantly - Get the Best Deals at LLM Price Check](https://llmpricecheck.com/)
 - [Ideogram - 类似 midjourney 的画图工具](https://ideogram.ai/)
+- [PaoloJN/youtube-ai-extension: ✨ A chrome extension that lets you chat with youtube videos](https://github.com/PaoloJN/youtube-ai-extension)
 
 ## Projects
 - [Serverless Machine Learning - MLApps](https://www.serverless-ml.org/mlapps) A list of ML Apps Collection
