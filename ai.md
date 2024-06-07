@@ -6,6 +6,7 @@
 - [Hello! · Transformers快速入门](https://transformers.run/)
 - [机器学习系统：设计和实现- Chinese Version](https://github.com/openmlsys/openmlsys-zh)
 - [大语言模型 | LLMBook-zh](https://llmbook-zh.github.io/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Course
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
