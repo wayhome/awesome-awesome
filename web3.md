@@ -5,6 +5,15 @@
 ## Tools
 - [撤销 80+ 区块链网络上的代币授权 | Revoke.cash](https://revoke.cash/zh)
 
+
+## Solana
+- https://solend.fi/dashboard
+- https://docs.raydium.io/raydium/v/zhong-wen
+- https://explorer.solana.com/
+- https://lamport.dev/
+- https://slerf.tools/zh-cn/
+- https://faucet.solana.com/
+
 ## Community
 - [数字居民社区](https://dr.leviding.com/)
 - [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
