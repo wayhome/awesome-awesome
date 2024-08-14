@@ -1,6 +1,10 @@
 ## Zig
 - [Learn Zig](https://learnzig.nvimer.org/)
 
+## Rust
+- [Rust语言圣经(Rust Course)](https://course.rs/)
+- [Rust By Practice( Rust 练习实践 )](https://practice-zh.course.rs/)
+
 ## Typescript
 - [Learn TypeScript - Free Interactive TypeScript Tutorial](https://www.learn-ts.org/)
 
