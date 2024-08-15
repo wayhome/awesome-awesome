@@ -26,6 +26,7 @@
 - [数字居民社区](https://dr.leviding.com/)
 - [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 - [FN精选 - Foresight News](https://foresightnews.pro/)
+- [ChainBuzz](https://www.chainbuzz.xyz/zh-CN)
 
 ## Job
 - [电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始](https://eleduck.com/)
