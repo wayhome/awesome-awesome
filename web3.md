@@ -8,6 +8,10 @@
 
 ## Tools
 - [撤销 80+ 区块链网络上的代币授权 | Revoke.cash](https://revoke.cash/zh)
+- [Certik有一个包含所有审计项目的仪表板。你可以查看“信任得分”，数字越高意味着越安全](https://www.certik.com/)
+- [defillama - DeFi 项目概况](https://defillama.com/)
+- [coinmarketcap - 代币概况](https://coinmarketcap.com/)
+- [dune - 链上数据分析](https://dune.com/home)
 
 
 ## Solana
