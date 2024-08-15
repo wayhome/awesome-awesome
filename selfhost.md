@@ -7,3 +7,4 @@
 
 ## awesome list
 - [Free for Developers](https://free-for.dev/#/)
+- [Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
