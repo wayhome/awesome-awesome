@@ -25,6 +25,7 @@
 ## Community
 - [数字居民社区](https://dr.leviding.com/)
 - [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
+- [ChainFeeds - Discover Web3 Trends](https://www.chainfeeds.xyz/)
 - [FN精选 - Foresight News](https://foresightnews.pro/)
 - [ChainBuzz](https://www.chainbuzz.xyz/zh-CN)
 
