@@ -2,6 +2,10 @@
 - [Build on Internet Computer with ICP Rust CDK Course | Rise In Course](https://www.risein.com/courses/build-on-internet-computer-with-icp-rust-cdk)
 - [the Builder's Guide from QuickNode](https://www.quicknode.com/builders-guide)
 
+
+## Book
+- [How to DeFi 简介 | How to DeFi: Advanced（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b)
+
 ## Tools
 - [撤销 80+ 区块链网络上的代币授权 | Revoke.cash](https://revoke.cash/zh)
 
