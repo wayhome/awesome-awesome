@@ -22,6 +22,7 @@
 - https://lamport.dev/
 - https://slerf.tools/zh-cn/
 - https://faucet.solana.com/
+- [Fankouzu/solana-basic-ui: Solana中文大全-由崔棉大师@MasterCui和捕鲸船社区小伙伴共建的Solana学习社区](https://github.com/Fankouzu/solana-basic-ui)
 
 ## Community
 - [数字居民社区](https://dr.leviding.com/)
