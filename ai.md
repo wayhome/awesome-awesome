@@ -8,6 +8,7 @@
 - [大语言模型 | LLMBook-zh](https://llmbook-zh.github.io/)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [《动手学深度学习》 — 动手学深度学习 2.0.0 documentation](https://zh.d2l.ai/)
+- [Speech and Language Processing 2024](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## Course
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
