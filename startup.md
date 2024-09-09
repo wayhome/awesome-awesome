@@ -7,3 +7,4 @@
 ## 出海
 - [WZProject - 专注跨境项目](https://wzproject.com/)
 - [数字居民社区](https://dr.leviding.com/)
+- [princehuang/overseas-website-note: 出海网站经验总结](https://github.com/princehuang/overseas-website-note)
