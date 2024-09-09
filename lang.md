@@ -5,6 +5,7 @@
 - [Rust语言圣经(Rust Course)](https://course.rs/)
 - [Rust By Practice( Rust 练习实践 )](https://practice-zh.course.rs/)
 - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
+- [Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/)
 
 ## Typescript
 - [Learn TypeScript - Free Interactive TypeScript Tutorial](https://www.learn-ts.org/)
