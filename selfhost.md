@@ -8,6 +8,7 @@
 ## awesome list
 - [Free for Developers](https://free-for.dev/#/)
 - [Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
+- [Free database hosting](https://gist.github.com/bmaupin/0ce79806467804fdbbf8761970511b8c)
 
 ## workflow
 - [欢迎来到 n8n 中文教程 | 简单易懂的现代魔法](https://n8n.akashio.com/)
