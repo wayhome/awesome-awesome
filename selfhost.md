@@ -8,3 +8,6 @@
 ## awesome list
 - [Free for Developers](https://free-for.dev/#/)
 - [Open Source Alternatives to Popular Software – OpenAlternative](https://openalternative.co/)
+
+## workflow
+- [欢迎来到 n8n 中文教程 | 简单易懂的现代魔法](https://n8n.akashio.com/)
