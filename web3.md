@@ -2,6 +2,7 @@
 - [Build on Internet Computer with ICP Rust CDK Course | Rise In Course](https://www.risein.com/courses/build-on-internet-computer-with-icp-rust-cdk)
 - [the Builder's Guide from QuickNode](https://www.quicknode.com/builders-guide)
 - [WTFAcademy/WTF-Dapp: ⭐ Minimal tutorials to build Dapps | DEX Development Tutorial | Uniswap 代码解析 | 去中心化交易所实战教程 | DApp 智能合约和前端教程 ⭐](https://github.com/WTFAcademy/WTF-Dapp?tab=readme-ov-file)
+- [The smart contract security training ground for developers, security researchers and educators | theredguild/damn-vulnerable-defi at v4.0.0](https://github.com/theredguild/damn-vulnerable-defi/tree/v4.0.0)
 
 
 ## Book
