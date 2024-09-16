@@ -17,3 +17,6 @@
 
 ## Sites
 - [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/) Clarity 是一种免费工具，用于捕获用户使用网站。安装非常简单，可以在数分钟内开始获取数据。
+
+## Notes
+- [mayneyao/eidos: Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.](https://github.com/mayneyao/eidos)
