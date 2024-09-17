@@ -10,6 +10,7 @@
 - [《动手学深度学习》 — 动手学深度学习 2.0.0 documentation](https://zh.d2l.ai/)
 - [Speech and Language Processing 2024](https://web.stanford.edu/~jurafsky/slp3/)
 - [datawhalechina/tiny-universe: 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe](https://github.com/datawhalechina/tiny-universe)
+- [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 ## Course
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
