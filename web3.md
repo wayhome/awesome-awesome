@@ -30,6 +30,7 @@
 - [数字居民社区](https://dr.leviding.com/)
 - [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)
 - [Buff区块链中文社区](https://chainbuff.com/)
+- [登链社区 - Web3 开发者社区](https://learnblockchain.cn/)
 
 ## News
 - [ChainFeeds - Discover Web3 Trends](https://www.chainfeeds.xyz/)
