@@ -3,7 +3,7 @@
 - [the Builder's Guide from QuickNode](https://www.quicknode.com/builders-guide)
 - [WTFAcademy/WTF-Dapp: ⭐ Minimal tutorials to build Dapps | DEX Development Tutorial | Uniswap 代码解析 | 去中心化交易所实战教程 | DApp 智能合约和前端教程 ⭐](https://github.com/WTFAcademy/WTF-Dapp?tab=readme-ov-file)
 - [The smart contract security training ground for developers, security researchers and educators | theredguild/damn-vulnerable-defi at v4.0.0](https://github.com/theredguild/damn-vulnerable-defi/tree/v4.0.0)
-
+- [Solidity 中文文档 — Solidity中文文档 — 登链社区](https://learnblockchain.cn/docs/solidity/index.html#)
 
 ## Book
 - [How to DeFi: Advanced（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b)
@@ -24,6 +24,7 @@
 - https://slerf.tools/zh-cn/
 - https://faucet.solana.com/
 - [Fankouzu/solana-basic-ui: Solana中文大全-由崔棉大师@MasterCui和捕鲸船社区小伙伴共建的Solana学习社区](https://github.com/Fankouzu/solana-basic-ui)
+
 
 ## Community
 - [数字居民社区](https://dr.leviding.com/)
