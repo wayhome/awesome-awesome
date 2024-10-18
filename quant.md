@@ -22,6 +22,7 @@
 
 ## Awesome List
 - [wangzhe3224/awesome-systematic-trading: A curated list of insanely awesome libraries, packages and resources for systematic trading](https://github.com/wangzhe3224/awesome-systematic-trading)
+- [paperswithbacktest/awesome-systematic-trading: A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.](https://github.com/paperswithbacktest/awesome-systematic-trading)
 
 ## Tools
 - [Barchart.com | Commodity, Stock, and Currency Quotes, Charts, News & Analysis](https://www.barchart.com/)
