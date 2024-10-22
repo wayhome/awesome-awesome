@@ -1,7 +1,7 @@
 ## Reinforcement learning
 - [强化学习100题](https://p100.koki-saitoh.com/zh-CN)
 - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL
-](https://www.mit.edu/~dimitrib/RLbook.html)
+](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 ## Book
 - [LLM 应用开发实践笔记](https://aitutor.liduos.com/)
