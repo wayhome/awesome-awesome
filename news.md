@@ -9,3 +9,4 @@
 - [积薪](https://firewood.news/)
 - [笛卡](https://dizkaz.com/) 一个基于用户投票对内容进行排序的互联网社区
 - [Rss | Sinan](https://sinan.fun/rss) 寻找你感兴趣的内容, 多社区的 RSS 聚合
+- [NewsNow | 实时](https://newsnow.busiyi.world/)
