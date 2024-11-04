@@ -12,3 +12,6 @@
 
 ## workflow
 - [欢迎来到 n8n 中文教程 | 简单易懂的现代魔法](https://n8n.akashio.com/)
+
+## Security
+- [How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
