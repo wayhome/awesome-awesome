@@ -2,6 +2,7 @@
 - [HackerNoon - read, write and learn about any technology](https://hackernoon.com/)
 - [HackerTab](https://now.hackertab.dev/)
 - [Zenn｜エンジニアのための情報共有コミュニティ](https://zenn.dev/)
+- [Techmeme](https://www.techmeme.com/)
  
 ## Comprehensive
 - [xLog - 书写在 区块链上的开源创作社区](https://xlog.app/)
