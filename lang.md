@@ -9,6 +9,7 @@
 - [Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Rust Cookbook 中文版](https://rustwiki.org/zh-CN/rust-cookbook/)
+- [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 
 ## Typescript
