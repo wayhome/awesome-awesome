@@ -9,6 +9,7 @@
 - [Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Rust Cookbook 中文版](https://rustwiki.org/zh-CN/rust-cookbook/)
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 
 ## Typescript
 - [Learn TypeScript - Free Interactive TypeScript Tutorial](https://www.learn-ts.org/)
