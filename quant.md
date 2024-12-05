@@ -27,6 +27,7 @@
 
 ## Tools
 - [Barchart.com | Commodity, Stock, and Currency Quotes, Charts, News & Analysis](https://www.barchart.com/)
+- [Stockcircle - Analyse Portfolios of Investment Gurus](https://stockcircle.com/)
 
 
 ## FreqTrade
