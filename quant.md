@@ -28,6 +28,7 @@
 ## Tools
 - [Barchart.com | Commodity, Stock, and Currency Quotes, Charts, News & Analysis](https://www.barchart.com/)
 - [Stockcircle - Analyse Portfolios of Investment Gurus](https://stockcircle.com/)
+- [Fast13F - Track Institutional Investment Holdings](https://www.fast13f.com/)
 
 
 ## FreqTrade
