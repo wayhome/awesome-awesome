@@ -12,6 +12,7 @@
 - [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 - [Rustfinity | Learn and Practice the Rust Programming Language](https://www.rustfinity.com/)
+- [rust-boom: Awesome Rust (Rust 资源 | 学习 | 书 ). 💥](https://github.com/rust-boom/rust-boom)
 
 ## Typescript
 - [Learn TypeScript - Free Interactive TypeScript Tutorial](https://www.learn-ts.org/)
