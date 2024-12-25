@@ -9,6 +9,7 @@
 - [MOSEK Portfolio Optimization Cookbook — MOSEK Portfolio Optimization Cookbook 1.5.0](https://docs.mosek.com/portfolio-cookbook/index.html)
 - [Algorithmic Trading in Python with Machine Learning (中文) — PyBroker](https://www.pybroker.com/zh-cn/latest/)
 - [Freqtrade 中文文档](https://www.wuzao.com/document/freqtrade/)
+- [Tidy Finance with Python – Tidy Finance](https://www.tidy-finance.org/python/)
 
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
