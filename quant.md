@@ -40,3 +40,6 @@
 - [FreqST - Discover the Best Freqtrade Strategies](https://freqst.com/)
 - [Freqtrade Strategy Ninja - Testing Freqtrade Strategies](https://strat.ninja/)
 - [Bot Academy – Learn about Freqtrade](https://botacademy.ddns.net/)
+
+## Strategies
+- [je-suis-tm/quant-trading: Python quantitative trading strategies](https://github.com/je-suis-tm/quant-trading) Python 量化交易策略，包括 VIX 计算器、模式识别、商品交易顾问、蒙特卡洛、期权跨式、射击之星、伦敦突破、平均K线、配对交易、相对强弱指标（RSI）、布林带、抛物线转向指标（Parabolic SAR）、双重动量、动量震荡指标（Awesome）、移动平均收敛发散指标（MACD）。
