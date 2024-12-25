@@ -7,6 +7,7 @@
 
 ## design
 - [penpot/penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot) Figma 的免费开源替代品
+- [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
 
 ## Network
 - [Get Unlimited Proxies for $7 | Geonode](https://geonode.com/)
