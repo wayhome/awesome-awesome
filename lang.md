@@ -1,6 +1,7 @@
 ## Zig
 - [Learn Zig](https://learnzig.nvimer.org/)
 - [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book/)
+- [Ziggit - A Zig community](https://ziggit.dev/)
 
 ## Rust
 - [Rust语言圣经(Rust Course)](https://course.rs/)
