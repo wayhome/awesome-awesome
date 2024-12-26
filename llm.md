@@ -21,3 +21,7 @@
 - [Crack GPTs Prompt | CrackGPTs](https://crackgpts.com/)
 - [linexjlin/GPTs: leaked prompts of GPTs](https://github.com/linexjlin/GPTs)
 - [friuns2/Leaked-GPTs: Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription. https://gptcall.net](https://github.com/friuns2/Leaked-GPTs)
+
+## MCP
+- [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
+- [Model Context Protocol Hub - Universal AI Integration Standard](https://www.aimcp.info/zh)
