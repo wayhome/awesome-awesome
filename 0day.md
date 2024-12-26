@@ -2,6 +2,7 @@
 - [Latest News / TavazSearch](https://tavaz.xyz/)
 - [磁力猫 -魔法猫咪.lol 磁力链接搜索,BT种子搜索,最好用的磁力搜索引擎](https://clmclm.com/)
 - [黑马磁力 - 专业的种子搜索、磁力链接搜索引擎](https://heimaai.top/)
+- [Torrent Search Engine - BT4G](https://bt4gprx.com/)
 
 ## Courses
 - [SoftArchive – Unlimited Download Source](https://sanet.st/full/)
