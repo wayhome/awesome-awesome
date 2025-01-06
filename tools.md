@@ -13,7 +13,7 @@
 ## Network
 - [Get Unlimited Proxies for $7 | Geonode](https://geonode.com/)
 - [NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。](https://github.com/NaiboWang/EasySpider)
-- [阿布云 - 为大数据赋能](https://abuyun.com/)
+- [阿布云 - 极速 HTTP隧道](https://abuyun.com/)
 - [Proxies.Fo - Leading Premium Proxy Providers](https://app.proxies.fo/ref/c48dfa18-d587-64d8-b3af-e8e237228d6f) Residential 1GB 3$/G 
 
 ## Music
