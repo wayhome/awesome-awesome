@@ -3,7 +3,7 @@
 - [Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/learn/)
 - [Coursera | Online Courses From Top Universities. Join for Free](https://www.coursera.org/)
 - [Serverless 容器从入门到精通: - Serverless Kubernetes_学习资源库_阿里云培训中心-阿里云](https://edu.aliyun.com/course/314539)
-- [Welcome to the Hugging Face Audio course! - Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
+- [A Home for High School Hackers – Hack Club](https://hackclub.com/)
 
 ## Book
 - [Hello 算法](https://www.hello-algo.com/chapter_paperbook/)
