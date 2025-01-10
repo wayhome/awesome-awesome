@@ -3,7 +3,7 @@
 - [Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/learn/)
 - [Coursera | Online Courses From Top Universities. Join for Free](https://www.coursera.org/)
 - [Serverless 容器从入门到精通: - Serverless Kubernetes_学习资源库_阿里云培训中心-阿里云](https://edu.aliyun.com/course/314539)
-- [A Home for High School Hackers – Hack Club](https://hackclub.com/) Hack Club是一个全球青少年编程社区，线上和线下聚集了数千名热爱代码的年轻人。无论你是初学者还是有经验的程序员，都可以在这里找到属于自己的位置。社区提供开放源代码的学习工具和项目，如游戏引擎和JavaScript游戏编辑器，并举办游戏开发活动。此外，Hack Club还支持学校成立编程俱乐部，提供披萨津贴和电路板制作资助。通过Slack，成员可以互相交流、寻求项目反馈。Hack Club强调共同创造和分享，定期举办工作坊和黑客马拉松，帮助年轻人实现编程梦想。
+- [A Home for High School Hackers – Hack Club](https://hackclub.com/) Hack Club是一个全球青少年编程社区，社区提供开放源代码的学习工具和项目，如游戏引擎和JavaScript游戏编辑器，并举办游戏开发活动
 
 ## Book
 - [Hello 算法](https://www.hello-algo.com/chapter_paperbook/)
