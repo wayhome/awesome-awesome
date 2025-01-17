@@ -5,4 +5,4 @@
 - [v0 by Vercel](https://v0.dev/) —— a generative user interface system by Vercel powered by AI. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects.
 
 ## Tutorial
-- [Learn Yjs by Jamsocket](https://learn.yjs.dev/)
+- [Learn Yjs by Jamsocket](https://learn.yjs.dev/) an interactive tutorial series on building realtime collaborative applications
