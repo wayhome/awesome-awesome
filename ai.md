@@ -13,6 +13,7 @@
 - [Speech and Language Processing 2024](https://web.stanford.edu/~jurafsky/slp3/)
 - [datawhalechina/tiny-universe: 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe](https://github.com/datawhalechina/tiny-universe)
 - [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+- [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
 
 ## Course
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
