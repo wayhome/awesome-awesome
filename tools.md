@@ -5,6 +5,7 @@
 - [clidey/whodb: A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface](https://github.com/clidey/whodb) 一个基于浏览器的数据库管理工具，支持 Postgres、MySQL、SQLite、MongoDB、 Redis
 - [Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/) Clarity 是一种免费工具，用于捕获用户使用网站。安装非常简单，可以在数分钟内开始获取数据。
 - [在线键盘测试 | zFrontier 装备前线](https://www.zfrontier.com/lab/keyboardTester)
+- [dvershinin/gixy: NGINX configuration static analyzer](https://github.com/dvershinin/gixy)
 
 ## design
 - [penpot/penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot) Figma 的免费开源替代品
