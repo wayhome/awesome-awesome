@@ -26,6 +26,10 @@
 - [元网 | 专业的加密货币资讯和区块链技术交流平台](https://metanethub.com/)
 - [阿斯達克財經網 (阿思達克財經網) AASTOCKS.com - 免費即時股票及港股報價 HK Free Stock Quote](http://www.aastocks.com/)
 - [Investopedia](https://www.investopedia.com/)
+
+## Forums
+- [Elite Trader](https://www.elitetrader.com/et/)
+- [Backtest and Auto-Trade Strategies - Wealth-Lab 8 - WealthLab](https://www.wealth-lab.com/)
   
 ## Awesome List
 - [wangzhe3224/awesome-systematic-trading: A curated list of insanely awesome libraries, packages and resources for systematic trading](https://github.com/wangzhe3224/awesome-systematic-trading)
