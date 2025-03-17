@@ -21,6 +21,7 @@
 
 ## Publications
 - [Open Source Quant](https://osquant.com/)
+- [Finance Research Letters | All Journal Issues | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/finance-research-letters/issues)
 
 ## News
 - [元网 | 专业的加密货币资讯和区块链技术交流平台](https://metanethub.com/)
