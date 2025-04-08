@@ -19,3 +19,6 @@
 
 ## Database
 - [Turso - Databases for All](https://turso.tech/)
+
+## Home Dashboard
+- [glanceapp/glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance?tab=readme-ov-file)
