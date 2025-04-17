@@ -48,5 +48,8 @@
 - [ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益](https://github.com/bleedline/aimoneyhunter)
 - [AI方案库-传递最新AI应用落地解决方案｜AIGCLINK | AI方案库](https://d.aigclink.ai/)
 
+## Libraries
+- [stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy)
+
 ## Platform
 - [Hopsworks - Batch and Real-time ML Platform](https://www.hopsworks.ai/) ML platform with highest performance Feature Store.
