@@ -8,6 +8,9 @@
 - [dvershinin/gixy: NGINX configuration static analyzer](https://github.com/dvershinin/gixy)
 - [coroot/coroot: Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.](https://github.com/coroot/coroot)
 
+## Video
+- [cobalt](https://cobalt.tools/) cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
+
 ## design
 - [penpot/penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot) Figma 的免费开源替代品
 - [Free AI Writing, PDF, Image, and other Online Tools - TinyWow](https://tinywow.com/)
