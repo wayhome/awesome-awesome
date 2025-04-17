@@ -5,6 +5,7 @@
 - [Serverless 容器从入门到精通: - Serverless Kubernetes_学习资源库_阿里云培训中心-阿里云](https://edu.aliyun.com/course/314539)
 - [A Home for High School Hackers – Hack Club](https://hackclub.com/) Hack Club是一个全球青少年编程社区，社区提供开放源代码的学习工具和项目，如游戏引擎和JavaScript游戏编辑器，并举办游戏开发活动
 - [cloudcommunity/Free-Certifications: A curated list of free courses with certifications.](https://github.com/cloudcommunity/Free-Certifications)
+- [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way?tab=readme-ov-file)
 
 ## Book
 - [Hello 算法](https://www.hello-algo.com/chapter_paperbook/)
