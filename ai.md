@@ -51,5 +51,8 @@
 ## Libraries
 - [stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy)
 
+## Agents
+- [pancsta/secai: Smart graph for networks of autonomous AI Agents](https://github.com/pancsta/secai)
+
 ## Platform
 - [Hopsworks - Batch and Real-time ML Platform](https://www.hopsworks.ai/) ML platform with highest performance Feature Store.
