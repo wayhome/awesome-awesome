@@ -39,6 +39,8 @@
 - [FN精选 - Foresight News](https://foresightnews.pro/)
 - [ChainBuzz](https://www.chainbuzz.xyz/zh-CN)
 - [区块链技术_元宇宙新闻_web3资讯-odaily](https://www.odaily.news/)
+- [BlockBeats - 专业的区块链研究机构与资讯平台](https://www.theblockbeats.info/)
+- [币界网 - 区块链数字货币信息平台](https://www.528btc.com/)
 
 ## Job
 - [电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始](https://eleduck.com/)
