@@ -38,6 +38,7 @@
 - [ChainFeeds - Discover Web3 Trends](https://www.chainfeeds.xyz/)
 - [FN精选 - Foresight News](https://foresightnews.pro/)
 - [ChainBuzz](https://www.chainbuzz.xyz/zh-CN)
+- [区块链技术_元宇宙新闻_web3资讯-odaily](https://www.odaily.news/)
 
 ## Job
 - [电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始](https://eleduck.com/)
