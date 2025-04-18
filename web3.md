@@ -16,6 +16,7 @@
 - [dune - 链上数据分析](https://dune.com/home)
 - [CoinGlass | Cryptocurrency Derivatives Data Analysis,Bitcoin Open interest,Bitcoin Options](https://www.coinglass.com/)
 - [Dune — Crypto Analytics Powered by Community.](https://dune.com/home)
+- [ETH Testnet Bridge by LayerZero](https://testnetbridge.com/sepolia)
 
 
 ## Solana
