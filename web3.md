@@ -4,6 +4,7 @@
 - [WTFAcademy/WTF-Dapp: ⭐ Minimal tutorials to build Dapps | DEX Development Tutorial | Uniswap 代码解析 | 去中心化交易所实战教程 | DApp 智能合约和前端教程 ⭐](https://github.com/WTFAcademy/WTF-Dapp?tab=readme-ov-file)
 - [The smart contract security training ground for developers, security researchers and educators | theredguild/damn-vulnerable-defi at v4.0.0](https://github.com/theredguild/damn-vulnerable-defi/tree/v4.0.0)
 - [Solidity 中文文档 — Solidity中文文档 — 登链社区](https://learnblockchain.cn/docs/solidity/index.html#)
+- [useWeb3.xyz · Learn Web3 development](https://www.useweb3.xyz/)
 
 ## Book
 - [How to DeFi: Advanced（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b)
