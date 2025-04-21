@@ -23,6 +23,9 @@
 - [Open Source Quant](https://osquant.com/)
 - [Finance Research Letters | All Journal Issues | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/finance-research-letters/issues)
 
+## Papers
+- [[2309.04259] C++ Design Patterns for Low-latency Applications Including High-frequency Trading](https://arxiv.org/abs/2309.04259)
+
 ## News
 - [元网 | 专业的加密货币资讯和区块链技术交流平台](https://metanethub.com/)
 - [阿斯達克財經網 (阿思達克財經網) AASTOCKS.com - 免費即時股票及港股報價 HK Free Stock Quote](http://www.aastocks.com/)
