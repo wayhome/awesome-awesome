@@ -25,6 +25,7 @@
 
 ## Papers
 - [[2309.04259] C++ Design Patterns for Low-latency Applications Including High-frequency Trading](https://arxiv.org/abs/2309.04259)
+- [Marginal Price Optimization - A new framework for arbitrage and routing in AMM driven markets](https://arxiv.org/abs/2502.08258v1)
 
 ## News
 - [元网 | 专业的加密货币资讯和区块链技术交流平台](https://metanethub.com/)
