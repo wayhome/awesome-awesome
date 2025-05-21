@@ -7,6 +7,7 @@
 - [在线键盘测试 | zFrontier 装备前线](https://www.zfrontier.com/lab/keyboardTester)
 - [dvershinin/gixy: NGINX configuration static analyzer](https://github.com/dvershinin/gixy)
 - [coroot/coroot: Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.](https://github.com/coroot/coroot)
+- [arXiv Xplorer](https://arxivxplorer.com/) 利用OpenAI的嵌入技术，帮助用户更有效地搜索和浏览arXiv、bioRxiv和medRxiv上的学术论文
 
 ## Video
 - [cobalt](https://cobalt.tools/) cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
