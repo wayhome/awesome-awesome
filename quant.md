@@ -12,6 +12,10 @@
 - [Freqtrade 中文文档](https://www.wuzao.com/document/freqtrade/)
 - [Tidy Finance with Python – Tidy Finance](https://www.tidy-finance.org/python/)
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+- [AQR](https://www.aqr.com/Insights/Research)
+- [NBER](https://www.nber.org/)
+- [Rob Carver](https://qoppac.blogspot.com/p/about-me.html)
+- [Giuseppe Paleologo](https://linktr.ee/paleologo)
 
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
