@@ -9,6 +9,7 @@
 ## Book
 - [How to DeFi: Advanced（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b)
 - [Uniswap V3 Development Book - Uniswap V3 Development Book](https://uniswapv3book.com/)
+- [Uniswap V3 Book 中文版](https://ryang-max.github.io/uniswapV3-book-zh-cn/)
 
 ## Tools
 - [撤销 80+ 区块链网络上的代币授权 | Revoke.cash](https://revoke.cash/zh)
