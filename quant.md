@@ -16,6 +16,7 @@
 - [NBER](https://www.nber.org/)
 - [Rob Carver](https://qoppac.blogspot.com/p/about-me.html)
 - [Giuseppe Paleologo](https://linktr.ee/paleologo)
+- [Welcome to the Statistical Arbitrage Laboratory — arbitragelab 1.0.0 documentation](https://hudson-and-thames-arbitragelab.readthedocs-hosted.com/en/latest/index.html)
 
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
