@@ -23,6 +23,7 @@
 - [Dune — Crypto Analytics Powered by Community.](https://dune.com/home)
 - [ETH Testnet Bridge by LayerZero](https://testnetbridge.com/sepolia)
 - [Chilly Bot](https://chillybot.xyz/) 资金费率、机会捕捉
+- [Crypto Funding Rate Arbitrage Screener | Loris Tools](https://loris.tools/)
 
 
 ## Solana
