@@ -6,6 +6,7 @@
 - [Solidity 中文文档 — Solidity中文文档 — 登链社区](https://learnblockchain.cn/docs/solidity/index.html#)
 - [useWeb3.xyz · Learn Web3 development](https://www.useweb3.xyz/)
 - [Decentralized Finance](https://rdi.berkeley.edu/berkeley-defi/f25) 伯克利公开的Defi入门课程
+- [TUTORIALS - DeCert.me](https://decert.me/tutorials)
 
 ## Book
 - [How to DeFi: Advanced（中文版）](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b)
