@@ -37,6 +37,7 @@
 - [阿斯達克財經網 (阿思達克財經網) AASTOCKS.com - 免費即時股票及港股報價 HK Free Stock Quote](http://www.aastocks.com/)
 - [Investopedia](https://www.investopedia.com/)
 - [经济指标 | ZH | TRADINGECONOMICS.COM](https://zh.tradingeconomics.com/)
+- [Quant Mashup - Quantocracy](https://quantocracy.com/)
 
 ## Forums
 - [Elite Trader](https://www.elitetrader.com/et/)
