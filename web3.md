@@ -26,6 +26,7 @@
 - [Chilly Bot](https://chillybot.xyz/) 资金费率、机会捕捉
 - [Crypto Funding Rate Arbitrage Screener | Loris Tools](https://loris.tools/)
 - [Cryptocurrency Prices, Charts, and Crypto Market Cap | CoinGecko](https://www.coingecko.com/)
+- [Dex Exchange Rank](https://www.perpetualpulse.xyz/Perpetual-Pulse-1c39db39ff5a80e58629ee32307b2dbb)
 
 
 ## Solana
