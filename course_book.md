@@ -13,6 +13,7 @@
 - [Introduction to Modern Causal Inference](https://alejandroschuler.github.io/mci/introduction-to-modern-causal-inference.html)
 - [LSM in a Week](https://skyzh.github.io/mini-lsm/)
 - [Algorithms Books - 最优化、决策论、验证](https://algorithmsbook.com/)
+- [游戏编程模式](https://gpp.tkchu.me/)
 
 ## Magzine
 - [hehonghui/awesome-english-ebooks: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新](https://github.com/hehonghui/awesome-english-ebooks/tree/master)
