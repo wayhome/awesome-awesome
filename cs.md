@@ -7,5 +7,5 @@
 
 ## People
 - [云风的 BLOG](https://blog.codingnow.com/)
-- [flaneur's Notes](https://publish.obsidian.md/flaneur2023/Home)
 - [Code and Me](https://blog.kyomind.tw/)
+- [mariozechner](https://mariozechner.at/)
