@@ -14,6 +14,7 @@
 - [Courses Bag - Get Free Courses Online](https://coursesbag.com/)
 - [Udemy 24 - Get Free Courses Online](https://udemy24.com/)
 - [SoftDDL - Download Source Unlimited » SoftDDL - Download Source Unlimited](https://softddl.org/)
+- [LearningDL - Learning For life](https://learningdl.net/)
 
 ## Pay Wall
 - [ReadMedium - Read Translated Articles for Free!](https://readmedium.com/)
