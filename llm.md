@@ -25,3 +25,7 @@
 ## MCP
 - [punkpeye/awesome-mcp-servers: A collection of MCP servers.](https://github.com/punkpeye/awesome-mcp-servers)
 - [Model Context Protocol Hub - Universal AI Integration Standard](https://www.aimcp.info/zh)
+
+## Code Mirror
+- [AICodeMirror官方共享平台 - 中国用户专属AI编程助手](https://www.aicodemirror.com/)
+- [AI Code With](https://aicodewith.com/)
