@@ -21,6 +21,7 @@
 - [Welcome to the Hugging Face Audio course! - Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)
 - [microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents](https://github.com/microsoft/ai-agents-for-beginners/tree/main)
 - [ulab-uiuc/CS598-Topics-in-LLM-Agents: Course information for CS598-Topics in LLM Agents(25'Spring) under the direction of Prof. Jiaxuan You ( jiaxuan@illinois.edu ).](https://github.com/ulab-uiuc/CS598-Topics-in-LLM-Agents?tab=readme-ov-file)
+- [Claude Code 实战课程中文](https://cholf5.com/claude-code-in-action/index.html)  课程 “Claude Code in Action” 的中文翻译版本，适合静态发布与离线阅读。视频与交互 问卷/测验需要回到原课程页面完成。
 
 ## Papers
 - [Comprehensive Collection of LLM-Related Papers and Repos | All](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5)
