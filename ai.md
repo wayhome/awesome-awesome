@@ -14,6 +14,7 @@
 - [datawhalechina/tiny-universe: 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe](https://github.com/datawhalechina/tiny-universe)
 - [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 - [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
+- [The Interactive Book of Prompting | prompts.chat | prompts.chat](https://prompts.chat/book)
 
 ## Course
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
