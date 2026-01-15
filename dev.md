@@ -22,9 +22,11 @@
 - [ziglings/exercises: Learn the ⚡Zig programming language by fixing tiny broken programs. - Codeberg.org](https://codeberg.org/ziglings/exercises)
 - [zig playground & ziglings online](https://zig.fly.dev/)
 - [Zig 语言圣经](https://course.ziglang.cc/)
+- [zigcc/skills](https://github.com/zigcc/skills/tree/main) - 针对特定版本的 Zig API 文档和最佳实践技能库，帮助 AI 助手生成正确的 Zig 代码
 
 ### TypeScript
 - [Learn TypeScript - Free Interactive TypeScript Tutorial](https://www.learn-ts.org/)
+- [简洁的TypeScript之书 | Concise TypeScript Book](https://gibbok.github.io/typescript-book/zh-cn/)
 
 ### English
 - [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)

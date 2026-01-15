@@ -10,7 +10,7 @@
 - [大语言模型 | LLMBook-zh](https://llmbook-zh.github.io/)
 - [datawhalechina/tiny-universe: 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe](https://github.com/datawhalechina/tiny-universe)
 - [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
-- [The Interactive Book of Prompting | prompts.chat | prompts.chat](https://prompts.chat/book)
+- [The Interactive Book of Prompting](https://prompts.chat/book) - 交互式 Prompt 工程指南，涵盖从基础到高级技术（链式思考、少样本学习、Prompt 链等）
 
 #### 深度学习与机器学习
 - [机器学习系统：设计和实现- Chinese Version](https://github.com/openmlsys/openmlsys-zh)
@@ -38,6 +38,7 @@
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [notes/cuda_optimization.md at main · hayden-donnelly/notes](https://github.com/hayden-donnelly/notes/blob/main/cuda_optimization.md)
 - [Great Resources for Learning Generative AI and Large Language Models (LLMs) - Scramblings](https://pankajpipada.com/posts/2024-04-15-genai-resources/)
+- [Let's build a functional coding agent from scratch](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/) - 从零构建编码代理的实战教程
 
 ## 研究资源 Research
 
@@ -50,6 +51,12 @@
 ### 框架与库 Frameworks & Libraries
 
 - [stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models](https://github.com/stanfordnlp/dspy)
+
+### AI Agent 技能与扩展 AI Agent Skills & Extensions
+
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 宝玉分享的 Claude Code 技能集，提升日常工作效率
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - A collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities.
+- [fatfingererr/macro-skills](https://github.com/fatfingererr/macro-skills) - Macro Skills 是一個為 Claude Code 設計的技能市集網站，提供宏觀經濟分析相關的技能套件
 
 ### AI工具 Tools
 
@@ -129,6 +136,7 @@
 
 #### AI智能体
 - [pancsta/secai: Smart graph for networks of autonomous AI Agents](https://github.com/pancsta/secai)
+- [twwch/DeepDiagram](https://github.com/twwch/DeepDiagram/tree/main) - 开源智能可视化平台，利用多智能体架构将自然语言转换为专业图表（思维导图、数据图表等）
 
 #### 项目展示
 - [Serverless Machine Learning - MLApps](https://www.serverless-ml.org/mlapps) - A list of ML Apps Collection
