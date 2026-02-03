@@ -5,6 +5,7 @@
 - [kernc/backtesting.py: :mag_right: :snake: Backtest trading strategies in Python.](https://github.com/kernc/backtesting.py) Backtest trading strategies in Python
 - [akfamily/akshare: AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库](https://github.com/akfamily/akshare)
 - [virattt/ai-hedge-fund: An AI Hedge Fund Team](https://github.com/virattt/ai-hedge-fund)
+- [nkaz001/hftbacktest: Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit](https://github.com/nkaz001/hftbacktest)
 
 ## Book And Tutorials
 - [MOSEK Portfolio Optimization Cookbook — MOSEK Portfolio Optimization Cookbook 1.5.0](https://docs.mosek.com/portfolio-cookbook/index.html)
