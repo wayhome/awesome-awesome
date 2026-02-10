@@ -27,6 +27,7 @@
 ### TypeScript
 - [Learn TypeScript - Free Interactive TypeScript Tutorial](https://www.learn-ts.org/)
 - [简洁的TypeScript之书 | Concise TypeScript Book](https://gibbok.github.io/typescript-book/zh-cn/)
+- [Code Mastery](https://codemastery.dev/ts/interactive-handbook/intro/0)
 
 ### English
 - [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
