@@ -30,6 +30,7 @@
 - [Finance Research Letters | All Journal Issues | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/finance-research-letters/issues)
 
 ## Papers
+- [Quant Paper](https://www.quantpaper.com/)
 - [[2309.04259] C++ Design Patterns for Low-latency Applications Including High-frequency Trading](https://arxiv.org/abs/2309.04259)
 - [Marginal Price Optimization - A new framework for arbitrage and routing in AMM driven markets](https://arxiv.org/abs/2502.08258v1)
 
