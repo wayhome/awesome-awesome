@@ -18,6 +18,8 @@
 - [Rob Carver](https://qoppac.blogspot.com/p/about-me.html)
 - [Giuseppe Paleologo](https://linktr.ee/paleologo)
 - [Welcome to the Statistical Arbitrage Laboratory — arbitragelab 1.0.0 documentation](https://hudson-and-thames-arbitragelab.readthedocs-hosted.com/en/latest/index.html)
+- [Quant Mashup - Quantocracy](https://quantocracy.com/)
+- [Algorithmic Trading, Quantitative Trading, Trading Strategies, Backtesting and Implementation | QuantStart](https://www.quantstart.com/)
 
 ## Courses
 - [Machine Learning for Trading | Coursera](https://www.coursera.org/specializations/machine-learning-trading)
