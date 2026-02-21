@@ -46,6 +46,7 @@
 #### 软件工程
 - [《软件设计的哲学》](https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/)
 - [Intro - Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
+- [设计数据密集型应用（第二版）](https://ddia.vonng.com/)
 
 #### 算法与数据结构
 - [Hello 算法](https://www.hello-algo.com/chapter_paperbook/)
