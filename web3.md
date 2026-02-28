@@ -13,6 +13,7 @@
 - [Uniswap V3 Development Book - Uniswap V3 Development Book](https://uniswapv3book.com/)
 - [Uniswap V3 Book 中文版](https://ryang-max.github.io/uniswapV3-book-zh-cn/)
 - [Solidity by Example | 0.8.26](https://solidity-by-example.org/)
+- [How Crypto Actually Works: The Missing Manual](https://github.com/lawmaster10/howcryptoworksbook)
 
 ## Tools
 - [撤销 80+ 区块链网络上的代币授权 | Revoke.cash](https://revoke.cash/zh)
