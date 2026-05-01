@@ -56,8 +56,13 @@
 
 ## Tools
 - [Barchart.com | Commodity, Stock, and Currency Quotes, Charts, News & Analysis](https://www.barchart.com/)
-- [Stockcircle - Analyse Portfolios of Investment Gurus](https://stockcircle.com/)
+- [Stockcircle - Analyse Portfolios of Investment Gurus](https://stockcircle.com/) - 跟踪知名投资人和基金持仓，界面直观，新手友好。
 - [Fast13F - Track Institutional Investment Holdings](https://www.fast13f.com/)
+- [Cathie's Ark - ARK 基金综合交易记录](https://cathiesark.com/ark-funds-combined/trades) - 跟踪木头姐 Cathie Wood 旗下 ARK ETF 的每日买入、卖出与调仓记录。
+- [Quiver Quantitative](https://www.quiverquant.com/) - 另类数据和事件驱动市场情报，覆盖国会议员交易、内幕交易、政府合同、游说、机构持仓等，更新较快。
+- [Insider Monkey](https://www.insidermonkey.com/) - 对冲基金持仓、内幕交易和市场解读文章很多，适合看榜单与观点，但需要筛选噪音。
+- [WhaleWisdom](https://whalewisdom.com/) - 13F、13D/G、Form 4、机构持仓和基金组合数据覆盖广，适合查机构和大资金动向。
+- [Dataroma](https://www.dataroma.com/) - 超级投资者持仓、组合变动和集中持仓追踪，页面简洁，适合看价值投资大佬组合。
 
 
 ## FreqTrade
