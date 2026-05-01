@@ -81,6 +81,7 @@
 - [Llama Hub](https://llamahub.ai/)
 - [Globe Explorer](https://explorer.globe.engineer/)
 - [Compare LLM API Pricing Instantly - Get the Best Deals at LLM Price Check](https://llmpricecheck.com/)
+- [Aibijia — AI 订阅，一键比价](https://aibijia.org/) - ChatGPT、Gemini、Claude Code、Grok 等 AI 订阅服务的价格聚合与比价。
 - [svcvit/Awesome-Dify-Workflow: 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.](https://github.com/svcvit/Awesome-Dify-Workflow)
 
 ### 平台服务 Platforms
