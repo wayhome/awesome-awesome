@@ -134,6 +134,14 @@
 - [AI Code With](https://aicodewith.com/)
 - [ccodezh](https://ccodezh.com/)
 
+#### Kiro 反代与账号工具
+- [7836246/aws-builder-id](https://github.com/7836246/aws-builder-id) - AWS Builder ID 自动注册工具，可配合 Kiro 反代服务使用
+- [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto) - AWS Builder ID, kiro 自动注册机
+- [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - 将 Kiro API 转为 OpenAI/Anthropic 兼容接口的网关代理
+- [hj01857655/kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - Kiro 账号、订阅与配额管理工具，内置 API 网关能力
+- [Quorinex/Kiro-Go](https://github.com/Quorinex/Kiro-Go) - Go 实现的 Kiro API 代理服务，兼容 Claude Code、Gemini CLI 等客户端
+- [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - Rust 实现的 Kiro API 代理工具，提供 OpenAI 兼容接口
+
 ### 应用案例与项目 Applications & Projects
 
 #### AI智能体
