@@ -8,6 +8,8 @@
 - [nkaz001/hftbacktest: Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit](https://github.com/nkaz001/hftbacktest)
 
 ## Book And Tutorials
+- [xingwudao/xquant-beginner: 《XQuant：人人都是量化交易员》](https://github.com/xingwudao/xquant-beginner) - 开源量化交易教育书籍，通过 AI 驱动开发教学量化交易，配套练习仓库 [xquant-learning](https://github.com/xingwudao/xquant-learning)
+- [xingwudao/xquant-learning: XQuant 配套练习仓库](https://github.com/xingwudao/xquant-learning) - 包含 9 个核心问题的实验规范和 Jupyter notebooks，从环境搭建到完整量化交易系统构建
 - [MOSEK Portfolio Optimization Cookbook — MOSEK Portfolio Optimization Cookbook 1.5.0](https://docs.mosek.com/portfolio-cookbook/index.html)
 - [Algorithmic Trading in Python with Machine Learning (中文) — PyBroker](https://www.pybroker.com/zh-cn/latest/)
 - [Freqtrade 中文文档](https://www.wuzao.com/document/freqtrade/)
