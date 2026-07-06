@@ -42,6 +42,7 @@
 - [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
 ### 安全与逆向 Security & Reverse Engineering
+- [pwn.college](https://pwn.college/) - 面向网络安全核心技能的 hands-on 学习平台，通过 dojo 课程和挑战练习二进制、系统与 CTF/Pwn 基础
 - [飘云阁](https://www.chinapyg.com/) - 老牌逆向教学论坛，适合零基础学习汇编、调试、脱壳、补丁与游戏修改
 - [吾爱破解](https://www.52pojie.cn/) - 国内高热度逆向综合社区，涵盖破解案例、汉化脚本、安卓逆向与实战资源
 - [看雪论坛](https://bbs.kanxue.com/) - 二进制安全与底层技术社区，聚焦内核驱动、反调试、加固对抗与漏洞挖掘
