@@ -23,6 +23,9 @@
 - [REINFORCEMENT LEARNING AND OPTIMAL CONTROL](https://web.mit.edu/dimitrib/www/RLbook.html)
 - [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
 
+#### AI Agent
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》开源技术书，围绕 "Agent = LLM + 上下文 + 工具" 展开，含 10 章内容与 92 个配套实验，支持多语言与 PDF/EPUB
+
 ### 课程 Courses
 
 - [MIT Deep Learning 6.S191](http://introtodeeplearning.com/)
