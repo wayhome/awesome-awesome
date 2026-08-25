@@ -28,6 +28,7 @@
 - [Crypto Funding Rate Arbitrage Screener | Loris Tools](https://loris.tools/)
 - [Cryptocurrency Prices, Charts, and Crypto Market Cap | CoinGecko](https://www.coingecko.com/)
 - [Dex Exchange Rank](https://www.perpetualpulse.xyz/Perpetual-Pulse-1c39db39ff5a80e58629ee32307b2dbb)
+- [PERPDEXLIST: Find a Perp DEX to Trade or Farm](https://perpdexlist.com/) - 对比 50+ 个永续 DEX 的交易量、持仓量、资金费率和手续费
 - [LIGHTER // L2 Perpetual DEX - Terminal Interface](https://lighter.gelora.study/)
 
 
