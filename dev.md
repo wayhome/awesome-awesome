@@ -5,6 +5,7 @@
 ### Rust
 - [Rust语言圣经(Rust Course)](https://course.rs/)
 - [Rust By Practice( Rust 练习实践 )](https://practice-zh.course.rs/)
+- [Rust Projects - Write a Redis Clone](https://rust-projects-write-a-redis-clone.github.io/) - 通过用 Rust 实现 Redis 学习网络编程、RESP 协议、并发、复制与事务的实战教程
 - [Rust Atomics and Locks by Mara Bos](https://marabos.nl/atomics/)
 - [Experiment Introduction - The Rust Programming Language](https://rust-book.cs.brown.edu/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
