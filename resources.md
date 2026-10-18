@@ -7,6 +7,7 @@
 - [磁力猫 -魔法猫咪.lol 磁力链接搜索,BT种子搜索,最好用的磁力搜索引擎](https://clmclm.com/)
 - [黑马磁力 - 专业的种子搜索、磁力链接搜索引擎](https://heimaai.top/)
 - [Torrent Search Engine - BT4G](https://bt4gprx.com/)
+- [RARGB - Torrent Search Engine](https://rargb.to)
 
 ### 网盘搜索
 - [学霸盘 - 百度网盘学习资料搜索下载神器](https://www.xuebapan.com/)
