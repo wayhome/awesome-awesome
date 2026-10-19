@@ -17,7 +17,9 @@
 ## 课程下载 Course Downloads
 
 - [SoftArchive – Unlimited Download Source](https://sanet.st/full/)
+- [DownArchive - Free Software, Games and Tutorials](https://downarchive.org/)
 - [Course Club - Download Paid Courses For Free](https://courseclub.me/)
+- [ClubbingBuy - Joint Purchases Club](https://clubbingbuy.exchange/)
 - [FreeCourseSite - Download Udemy Paid Courses For Free](https://freecoursesite.com/)
 - [Downloadly - free software download](https://downloadly.ir/)
 - [Downloadlynet – Free Software Download](https://downloadlynet.ir/)
